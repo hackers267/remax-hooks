@@ -1,0 +1,31 @@
+{
+  "name": "remax-hooks",
+  "version": "1.0.0",
+  "description": "remax hooks",
+  "main": "./lib/index.js",
+  "module": "./es/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+  },
+  "keywords": [
+    "remax-hooks",
+    "hook",
+    "hooks",
+    "remax"
+  ],
+  "author": "silence_zhpf",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
