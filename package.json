@@ -16,6 +16,11 @@
   ],
   "author": "silence_zhpf",
   "license": "ISC",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
@@ -24,9 +29,11 @@
     "@types/jest": "^26.0.4",
     "babel-plugin-transform-async-to-promises": "^0.8.15",
     "eslint": "^7.4.0",
+    "husky": "^4.2.5",
     "jest": "^26.1.0",
     "lerna": "^3.22.1",
     "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1",
     "react": "^16.13.1",
     "react-test-renderer": "^16.13.1",
     "ts-jest": "^26.1.2",
