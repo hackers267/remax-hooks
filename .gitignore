@@ -6,6 +6,7 @@ node_modules
 .idea
 coverage
 .doc
+.docs
 .DS_Store
 .umi
 .umi-production
