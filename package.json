@@ -1,5 +1,5 @@
 {
-  "name": "remax-hooks",
+  "name": "remax-hook",
   "version": "0.1.0",
   "description": "the hooks used in remax",
   "main": "index.js",
