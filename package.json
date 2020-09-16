@@ -7,7 +7,7 @@
     "start": "npm run dev",
     "dev": "dumi dev",
     "test": "jest",
-    "build:doc": "dumi build",
+    "doc:build": "dumi build",
     "deploy": "gh-pages -b docs -d dist"
   },
   "keywords": [
