@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run dev",
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
     "dev": "dumi dev",
     "test": "jest",
     "docs:build": "dumi build",
@@ -35,6 +37,7 @@
     "babel-plugin-transform-async-to-promises": "^0.8.15",
     "dumi": "^1.0.34",
     "eslint": "^7.9.0",
+    "father-build": "^1.18.5",
     "gh-pages": "^3.1.0",
     "husky": "^4.3.0",
     "jest": "^26.4.2",
@@ -43,6 +46,8 @@
     "pretty-quick": "^3.0.2",
     "react": "^16.13.1",
     "react-test-renderer": "^16.13.1",
+    "remax": "^2.8.1",
+    "remax-hook": "^0.1.1-alpha.0",
     "surge": "^0.21.6",
     "ts-jest": "^26.3.0",
     "typescript": "^4.0.2"
