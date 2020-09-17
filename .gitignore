@@ -14,3 +14,5 @@ coverage
 page
 lerna-debug.log
 tsconfig.tsbuildinfo
+packages/**/lib
+packages/**/es
