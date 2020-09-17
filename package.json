@@ -10,7 +10,7 @@
     "dev": "dumi dev",
     "test": "jest",
     "docs:build": "dumi build",
-    "deploy": "gh-pages -b docs -d dist",
+    "deploy": "gh-pages -d dist",
     "pub": "lerna publish"
   },
   "keywords": [
