@@ -15,7 +15,7 @@ group:
 
 ## 示例
 
-<code src="./Demo.tsx"/>
+<code src="./demos/Demo.tsx"/>
 
 ## 使用
 
