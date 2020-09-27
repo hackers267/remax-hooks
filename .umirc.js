@@ -2,7 +2,7 @@ const repository = 'remax-hooks';
 export default {
   mode: 'site',
   title: 'Remax Hooks',
-  ssr: {},
+  // ssr: {},
   base: `/${repository}`,
   publicPath: `/${repository}/`,
   exportStatic: {},
