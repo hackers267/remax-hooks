@@ -6,4 +6,15 @@ export default {
   base: `/${repository}`,
   publicPath: `/${repository}/`,
   exportStatic: {},
+  navs: [
+    null,
+    {
+      title: 'GitHub',
+      path: 'https://github.com/hackers267/remax-hooks',
+    },
+    {
+      title: '码云',
+      path: 'https://gitee.com/hackers267/remax-hooks.git',
+    },
+  ],
 };
