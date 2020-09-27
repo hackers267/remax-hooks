@@ -1,5 +1,5 @@
 ---
-title: useBoolean - Remax Hooks
+title: useBoolean
 nav:
   title: Hooks
   path: /hooks

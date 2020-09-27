@@ -1,5 +1,5 @@
 ---
-title: usePrevious - Remax Hooks
+title: usePrevious
 nav:
     title: Hooks
     path: /hooks
@@ -7,7 +7,7 @@ group:
     title: State
     path: /state
     order: 3
-----------
+---
 
 # usePrevious
 

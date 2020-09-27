@@ -1,5 +1,5 @@
 ---
-title: useToggle - Remax Hooks
+title: useToggle
 nav:
   title: Hooks
   path: /hooks

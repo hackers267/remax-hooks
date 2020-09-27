@@ -1,5 +1,5 @@
 ---
-title: useCodeParam - Remax Hooks
+title: useCodeParam
 nav:
   title: Hooks
   path: /hooks
