@@ -2,4 +2,5 @@ import useBoolean from './useBoolean';
 import usePrevious from './usePrevious';
 import useSetState from './useSetState';
 import useCodeParam from './useCodeParam';
-export { useBoolean, useCodeParam, usePrevious, useSetState };
+import useToggle from './useToggle';
+export { useBoolean, useCodeParam, usePrevious, useSetState, useToggle };

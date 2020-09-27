@@ -5,5 +5,6 @@
 - useBoolean
 - useSetState
 - usePrevious
+- useToggle
 
 不少 hook 参考/摘录自 [ahooks](https://ahooks.js.org/)

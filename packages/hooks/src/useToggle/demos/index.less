@@ -1,0 +1,25 @@
+.state_wrapper {
+  @fontSize: 20px;
+  font-size: @fontSize;
+  .state {
+    padding-left: 4px;
+    color: #ec9500;
+    font-size: 24px;
+  }
+}
+
+.button_wrapper {
+  display: grid;
+  column-gap: 16px;
+  grid-template-columns: repeat(auto-fit, 100px);
+  margin-top: 12px;
+  .button {
+    @primaryColor: #178dfb;
+    background-color: @primaryColor;
+    outline-color: lighten(@primaryColor, 20%);
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    padding: 6px 12px;
+  }
+}
