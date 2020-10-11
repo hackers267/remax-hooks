@@ -4,7 +4,7 @@
  */
 import React, { useState } from 'react';
 import { Button, View, Text } from 'remax/one';
-import { usePrevious, useToggle } from 'remax-hook';
+import { usePrevious } from 'remax-hook';
 
 export default () => {
   const [count, setCount] = useState(0);
