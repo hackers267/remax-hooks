@@ -3,4 +3,6 @@ import usePrevious from './usePrevious';
 import useSetState from './useSetState';
 import useCodeParam from './useCodeParam';
 import useToggle from './useToggle';
-export { useBoolean, useCodeParam, usePrevious, useSetState, useToggle };
+import useStep from './useStep';
+
+export { useBoolean, useCodeParam, usePrevious, useSetState, useStep, useToggle };
