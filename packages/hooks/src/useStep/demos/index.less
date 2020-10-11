@@ -1,0 +1,26 @@
+.container {
+  margin-top: 36px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 100px);
+  @cGap: 16px;
+  column-gap: @cGap;
+  grid-column-gap: @cGap;
+  align-items: center;
+  align-content: center;
+  .item {
+    background-color: #178dfb;
+    color: #ffffff;
+    @h: 36px;
+    height: @h;
+    line-height: @h;
+    border-radius: @h / 2;
+    text-align: center;
+    &.active {
+      background-color: #fc5901;
+    }
+  }
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
