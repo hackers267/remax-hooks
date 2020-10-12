@@ -6,7 +6,7 @@ nav:
 group:
     title: State
     path: /state
-    order: 4
+    order: 5
 ---
 
 # useStep
@@ -15,9 +15,9 @@ group:
 
 ## 示例
 
-<code src="./demo1.tsx"/>
+<code src="./demos/demo1.tsx"/>
 
-<code src="./demo2.tsx"/>
+<code src="./demos/demo2.tsx"/>
 
 ## 使用
 

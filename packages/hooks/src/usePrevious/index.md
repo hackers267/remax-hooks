@@ -17,8 +17,8 @@ group:
 
 ### 基本用法
 
-<code src="./demo1.tsx"/>
+<code src="./demos/demo1.tsx"/>
 
 ### 进阶用法
 
-<code src="./demo2.tsx">
+<code src="./demos/demo2.tsx">
