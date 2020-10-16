@@ -1,0 +1,45 @@
+{
+  "name": "remax-utils",
+  "version": "0.0.1",
+  "description": "The utils about remax",
+  "keywords": [
+    "remax",
+    "react",
+    "util",
+    "utils",
+    "wechat",
+    "ali",
+    "alipay",
+    "toutiao"
+  ],
+  "author": "silence_zhpf <silence_zhpf@aliyun.com>",
+  "homepage": "http://remax_hooks.github.io/tree/master/packages/remax-utils#readme",
+  "license": "MIT",
+  "main": "./lib/index.js",
+  "module": "./es/index.js",
+  "types": "./lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackers267/remax-hooks.git"
+  },
+  "scripts": {
+    "build": "fathre-build build"
+  },
+  "bugs": {
+    "url": "https://github.com/hackers267/remax-hooks/issues"
+  }
+}
