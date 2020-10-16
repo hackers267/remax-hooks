@@ -29,15 +29,12 @@
     "package.json",
     "README.md"
   ],
-  "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hackers267/remax-hooks.git"
   },
   "scripts": {
-    "build": "fathre-build build"
+    "build": "father-build build"
   },
   "bugs": {
     "url": "https://github.com/hackers267/remax-hooks/issues"
