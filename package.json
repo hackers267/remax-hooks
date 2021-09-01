@@ -53,5 +53,8 @@
     "ts-jest": "^27.0.4",
     "typescript": "^4.3.5"
   },
-  "homepage": "remax_hooks.github.io"
+  "homepage": "remax_hooks.github.io",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  }
 }
