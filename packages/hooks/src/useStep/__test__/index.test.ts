@@ -1,4 +1,4 @@
-import { act, HookResult, renderHook } from '@testing-library/react-hooks';
+import { act,RenderResult as HookResult, renderHook } from '@testing-library/react-hooks';
 import useStep from '../index';
 import { Actions, State } from '../interface';
 
